@@ -1,2 +1,2 @@
 # Animals
-Github commands exercise.
+Created to exercise Github commands.
